@@ -10,3 +10,6 @@ The game files are **not** included and must be mounted into the container.
 ```
 $ docker run -p 8080:80 -v "${PWD}/data:/app/drive_c/Program Files (x86)/Farming Simulator 2019" cbeneke/farming-simulator-server
 ```
+
+*edit*
+this is my atempt
